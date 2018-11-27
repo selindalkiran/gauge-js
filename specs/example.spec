@@ -8,4 +8,4 @@ To execute this specification, use
 
 * Goto Google's search page
 * Search for "github Taiko"
-* Page contains "takio"
+* Page contains "taiko"
